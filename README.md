@@ -31,6 +31,6 @@ To mimic a real-world clinic database, the dataset is split into two separate ta
 
 ***
 
-## 🛠️ Tools Used
+## Tools Used
 * **SQLite:** Used to build the relational tables and execute the code.
 * **DbVisualizer:** Used to write scripts, manage connections, and audit data outputs.
